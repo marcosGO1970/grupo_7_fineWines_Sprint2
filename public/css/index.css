@@ -37,11 +37,11 @@ header{
 }
 
 header .form {
-    width: 50%;
+    width: 65%;
     max-width: 280px;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: stretch;
 }
 
