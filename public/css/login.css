@@ -125,89 +125,18 @@ main{
     margin: 0 auto;
 }
 
-.last-visit{
-    margin-top: 10px;
-    margin-bottom: 5px;
-}
-
-.last-visit div span,
-.offers div span{
-    padding: 5px;
-    font-size: 16px;
-    color: white;
-    background-color: black;
-}
 
 h3{
     color: #666;
 }
 
-.products{
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: flex-start;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
 
-.articulo{
-    background-color: #FFF;
-    display:flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    transition: all 800ms;
-}
-
-.product_img{
-    max-height: 200px;
-}
-
-.detalle{
-    width: 100%;
-    border-top: 1px solid #ebebeb;
-    padding: 15px;
-}
-
-.price-and-discount{
-    display:flex;
-    justify-content: space-between;
-    align-items: flex-start;
-}
-
-.price{
-    font-size: 16px;
-    width: 28%;
-    margin-top: 5px;
-}
-
-.discount{
-    font-size: 14px;
-    font-weight: normal;
-    margin-top: 6px;
-    margin-left: 10px;
-}
-
-.bodega{
-    font-size: 14px;
-    font-weight: bold;
-}
 
 .varietal{
     font-size: 12px;
     font-weight: normal
 }  
 
-article div.detalle h4{
-    margin-top: 10px;
-    display: none;
-}
-
-main section article i,
-.discount{
-    color: #39b54a;
-    width: 45%;
-}
 
 footer{
     display:flex;
