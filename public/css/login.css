@@ -76,7 +76,7 @@ header nav{
     display: none;
     border-color: black;
     background-color: black;
-    height:7vh;
+   
 }
 
 header nav ul{
@@ -84,12 +84,11 @@ header nav ul{
     flex:wrap;
     justify-content: space-around;
     align-items: center;
-    height: 35px;
+    height:7vh;
 }
 
 header ul li{
     list-style-type: none;
-    padding-top: 10px;
 }
 
 header ul li a{
