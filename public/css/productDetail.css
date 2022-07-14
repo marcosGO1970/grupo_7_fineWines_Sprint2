@@ -32,7 +32,7 @@ header{
     width: 100px;
 }
 
-
+/* ----- Form buscar -----------*/
 #buscador{
     display: inline-block;
     font-size: 12px;
@@ -55,17 +55,19 @@ header{
     width: 70%;
     outline: none;
     color: #666;
+    border: none
 }
 
 #submit{
     display: inline-block;
     font-size: 12px;
     padding: 2px;
-    text-align: center;
+    text-align: right;
     color: #000;
     font-weight: bold;
     background-color: #FFF;
     width: 12%;
+    border: none;
 }
 
 div.burger-menu{
